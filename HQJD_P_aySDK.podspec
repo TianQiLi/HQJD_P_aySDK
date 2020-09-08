@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
  s.name = 'HQJD_P_aySDK'
- s.version = '2.27.0'
+ s.version = '2.27.1'
  s.summary = 'JDPay'
  s.homepage = 'https://github.com/TianQiLi/HQJD_P_aySDK'
  s.license = { :'type' => 'Copyright', :'text' => ' Copyright 2020 tql '}
