@@ -6,3 +6,6 @@
 
 采用WKWebview 
 
+
+jd:https://open.jddglobal.com/docs/detail?ic=guide&prodcode=%24%24api_platform%24%24
+
